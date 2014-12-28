@@ -1,7 +1,7 @@
-math
+misc
 ====
 
-programming assignments and some math-related miscellany
+old programming assignments and some miscellany
 
 vector  - C++ class representing a vector (linear algebra, not std::vector)
 
